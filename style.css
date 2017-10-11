@@ -8,14 +8,18 @@ body {
 }
 
 h1 {
-  font-stretch: expanded;
-  font-family: sans-serif;
+  font-family: "verdana", serif;
   font-weight: normal;
   font-size: 40px;
-  font-style: italic;
+  font-style: normal;
   color: #000000;
   letter-spacing: 2px;
   margin-bottom: 0px;
+}
+
+button {
+  border-style: outset;
+  color: #000000;
 }
 
 .inputSection {
